@@ -2,3 +2,7 @@ body {
   background: #eee;
   font-family: "Ariel"
 }
+
+#book-list:hover{
+  cursor: pointer;
+}
